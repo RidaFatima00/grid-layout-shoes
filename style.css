@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: rgb(69, 74, 90);
+    margin-top: 10px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.images{
+    display: grid;
+    grid-template-rows: 305px 305px 305px;
+    grid-template-columns:repeat(3,1fr);
+    column-gap: 15px;
+    margin: 30px 13px;
+    row-gap: 10px;
+}
+
+#beach{
+    height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+#flower{
+     height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+#house2{
+    height: 300px;
+    border: 3px solid black;
+    width: 100%;
+}
+#house1{
+     height: 300px;
+     border: 3px solid black;
+     width: 100%;
+}
+#mount2{
+    height: 300px;
+    border: 3px solid black;
+    width: 100%;
+}
+#mount1{
+    height: 300px;
+    border: 3px solid black; 
+    width: 100%;
+}
+#mount3{
+    height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+#leopard{
+    height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+#snow{
+    border: 3px solid black;
+    height: 300px;
+    width: 100%;
+}
+#sunset{
+    border: 3px solid black;
+    height: 300px;
+    width: 100%;
+}
+#thunder{
+    border: 3px solid black;
+    height: 300px;
+    width: 100%;
+}
+#waterfall{
+    height: 300px;
+    width: 100%;
+    border: 3px solid black;
+}
+#women{
+    border: 3px solid black;
+    height: 300px;
+    width: 100%;
+}
+#sitting{
+    height: 300px;
+    border: 3px solid black;  
+    width: 100%;
+}
+#rain{
+    height: 300px;
+    border: 3px solid black;  
+    width: 100%;
+}
